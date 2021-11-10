@@ -10,10 +10,13 @@ A Full-Stack Software Engineer - (MERN Stack) and also a USSD Dev
 **Other Profiles:**
 
 <a href="https://www.linkedin.com/in/paul-kitonyi-868a44146/">
- 
   <img align="left" alt="PaulKitonyi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  <br/><br/>
 </a>
+
+<a href="https://twitter.com/paulmucimah">
+  <img align="left" alt="Paul Kitonyi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<br/><br/>
 
 **languages and tools:**
 <br /><br/>
@@ -29,8 +32,11 @@ A Full-Stack Software Engineer - (MERN Stack) and also a USSD Dev
 <br/>
 <br/>
 
-![PaulKitonyi GitHub Stats.](https://github-readme-stats.vercel.app/api?username=PaulKitonyi&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919)
+<!-- ![PaulKitonyi GitHub Stats.](https://github-readme-stats.vercel.app/api?username=PaulKitonyi&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919) -->
 
+
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=paulkitonyi&show_icons=true&theme=gotham" alt="paulkitonyi" /> -->
+ 
 <center>
 <table>
   <tr>
