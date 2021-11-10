@@ -31,12 +31,8 @@ A Full-Stack Software Engineer - (MERN Stack) and also a USSD Dev
 <br/>
 <br/>
 <br/>
-
 <!-- ![PaulKitonyi GitHub Stats.](https://github-readme-stats.vercel.app/api?username=PaulKitonyi&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919) -->
-
-
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=paulkitonyi&show_icons=true&theme=gotham" alt="paulkitonyi" /> -->
- 
 <center>
 <table>
   <tr>
